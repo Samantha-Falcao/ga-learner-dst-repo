@@ -9,7 +9,7 @@ warnings.filterwarnings('ignore')
 
 
 #Reading file
-bank_data = pd.read_csv(path)
+bank_data = pd.read_csv('loan_data.csv')
 
 
 # Checking all categorical attributes

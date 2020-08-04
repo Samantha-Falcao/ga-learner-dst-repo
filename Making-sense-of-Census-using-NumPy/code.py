@@ -9,7 +9,7 @@ warnings.filterwarnings('ignore')
 new_record=[[50,  9,  4,  1,  0,  0, 40,  0]]
 
 #Reading file
-data = np.genfromtxt(path, delimiter=",", skip_header=1)
+data = np.genfromtxt('census_data.csv', delimiter=",", skip_header=1)
 
 #concatenating new record to data
 census = np.concatenate((data, np.array(new_record, dtype="float64")))
