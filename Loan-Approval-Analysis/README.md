@@ -22,19 +22,25 @@ The dataset has details of 614 customers with the following 13 features:
 | Property_Area |	Urban/Semi-Urban/Rural |
 | Loan_Status | Loan approved (Y/N) |
 
-This project involves major data analysis using pandas.
+This project involves major data analysis and visualization using pandas and matplotlib.
 
 
 ### Learnings from the project
 
- This project helped me to extensively revise and work with fundamental concepts in Pandas module of Python. In this project, I applied apply the following concepts:
+ This project helped me to extensively revise and work with fundamental concepts in Pandas and Matplotlib module of Python. In this project, I applied apply the following concepts:
 - Dataframe slicing
--Dataframe aggregation
+- Dataframe aggregation
 - Pivot Table operations
 - Dataframe groupby
 - Imputing missing data
 - Sorting and getting the count
--  Conditional Filtering and subsetting of DataFrames
+- Conditional Filtering and subsetting of DataFrames
+-	Bar plotting
+-	Scatter plotting
+-	Kernel Density plotting
+-	Subplot operations
+-	Axes modifications
+- Answering questions related to data analysis using the plots created
 
 
 
