@@ -1,25 +1,16 @@
 ### Project Overview
 
- This project called 'Spy Games' was deigned to decipher secret messages that an agency has received from their intel. They have multiple text files that need to be read and certain operations are required to be performed on these messages to get the final message. This task is to be carried out using fundamentals of python programming.
+ AIM: Analyze the weather dataset and identify any trends and patterns using Matplotlib.
 
+**About the Dataset:**
 
-### Learnings from the project
-
- The project 'Spy Games' helped me in better understanding of solving logical problems and applying python concepts such as:
-
-- String Operations
-
-- Conditional staements and loops
-
-- File Handling and I/O
-
-- User-defined functions
-
-This project helped me sharpen some fundamental topics in Python.
-
-
-### Approach taken to solve the problem
-
- I tried breaking down the problem into smaller problems and used multiple user-defined functions to make the code more readable and reusable. 
-
-
+|Name	|Description|
+|------|------|
+|Date/Time|	Date & Time for each hour in the year 2012.|
+|Temp(C)|	Exact temperature at a given time.|
+|Dew Point Temp(C)|	Dew Point Temp at a given time. It is the temperature to which air must be cooled to become saturated with water vapor.|
+|Rel Hum (%)|	Relative Humidity at a given time.|
+|Wind Spd (km/h)	|Wind Speed in km/h at a given time.|
+|Visibility (km)|	Visibility in km at a given time.|
+|Stn Press (kPa)	|Station Pressure observed at that time.|
+|Weather|	Weather at a given time.|
